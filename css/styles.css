@@ -1,0 +1,17 @@
+#page-top {
+  text-align: center;
+  background-color: lightblue;
+}
+#content{
+  width: 70%;
+  float: right;
+  text-align: center;
+  background-color: lightgreen;
+}
+#sidebar {
+  width: 30%;
+  float: left;
+}
+#text-bar{
+  width: 200px;
+}
