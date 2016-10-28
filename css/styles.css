@@ -3,15 +3,16 @@ body{
 }
 #page-top {
   text-align: center;
-  background-color: lightblue;
+  background-color: beige;
 }
 #content{
   width: 70%;
   float: right;
   text-align: center;
-  background-color: lightgreen;
+  background-color: grey;
 }
 #sidebar {
+  background-color: lightgreen;
   width: 30%;
   height: 1000px;;
   float: left;
