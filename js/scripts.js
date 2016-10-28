@@ -2,7 +2,6 @@
 var upperLimit;
 var replaceNumbers;
 var inputedArray = [];
-var emptyArray = [];
 
 var replaceNumbers = function(limit) {
   for(i=1; i<=limit; i++){
@@ -25,12 +24,7 @@ var replaceNumbers = function(limit) {
       alert("That's a long game of ping-pong. Not sure I have enough time for that..");
       return inputedArray = [];
     }
-
 };
-
-
-
-
 
 //Front-End: Jquery
 $(document).ready(function() {
